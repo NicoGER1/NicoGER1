@@ -1,7 +1,7 @@
 ### Hello world 👋 I'm Nico
 
 # 💫 About Me:
-I am a front-end developer who loves exploring new technologies and learning new skills.<br>I'm always on the lookout for challenges and opportunities to improve my skills and create innovative products.
+I am a web developer who loves exploring new technologies and learning new skills.<br>I'm always on the lookout for challenges and opportunities to improve my skills and create innovative products.
 
 
 ## 🌐 Socials:
